@@ -6,7 +6,7 @@ export const Title:React.FC<{title: string}> = ({ title }) => {
         color: 'white',
         position: 'absolute',
         left: '50px',
-        bottom: '100px'
+        bottom: '150px'
     }}>
       {title}
     </span>
